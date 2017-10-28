@@ -18,18 +18,18 @@ social:
     #url: https://twitter.com/SBootstrap
   #- title: facebook
     #url:
-  - title: stack-overflow
-    url: https://stackoverflow.com/users/8535632/chelsea-liu
   #- title: bitbucket
     #url: http://bitbucket.org/jekyll
-  - title: github
-    url: https://github.com/zchelseal
   - title: linkedin
     url: https://www.linkedin.com/in/chelsea-l-32772082/
-  - title: angel-list
-    url: https://angel.co/chelsea-liu-2
-  - title: dev-post
-    url: https://devpost.com/ChelseaLiu?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav
+  - title: github
+    url: https://github.com/zchelseal
+  - title: stack-overflow
+    url: https://stackoverflow.com/users/8535632/chelsea-liu
+  #- title: angel-list
+    #url: https://angel.co/chelsea-liu-2
+  #- title: dev-post
+    #url: https://devpost.com/ChelseaLiu?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav
 
 # Build settings
 markdown: kramdown
