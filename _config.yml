@@ -18,14 +18,16 @@ social:
     #url: https://twitter.com/SBootstrap
   #- title: facebook
     #url:
-  #- title: stack-overflow
-    #url: http://stackoverflow.com/questions/tagged/jekyll
+  - title: stack-overflow
+    url: https://stackoverflow.com/users/8535632/chelsea-liu
   #- title: bitbucket
     #url: http://bitbucket.org/jekyll
   - title: github
     url: https://github.com/zchelseal
   - title: linkedin
     url: https://www.linkedin.com/in/chelsea-l-32772082/
+  - title: devpost
+    url: https://devpost.com/ChelseaLiu?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav
 
 # Build settings
 markdown: kramdown
